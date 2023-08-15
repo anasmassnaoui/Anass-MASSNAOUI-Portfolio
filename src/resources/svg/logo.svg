@@ -1,0 +1,34 @@
+<svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 45 36.3" xmlns="http://www.w3.org/2000/svg">
+  <defs></defs>
+  <style type="text/css">
+    .path1 { stroke-dasharray: 100; animation: fill1 10s infinite; fill: transparent }
+    .path2 { stroke-dasharray: 100; animation: fill2 10s infinite; }
+    @keyframes fill1 {
+        100% {
+            stroke-dashoffset: 56.9;
+        }
+        30% {
+            stroke-dashoffset: 56.9;
+        }
+        0% {
+            stroke-dashoffset: 99.9;
+        }
+    }
+    @keyframes fill2 {
+        50% {
+            stroke-dashoffset: 87.9;
+        }
+        30% {
+            stroke-dashoffset: 99.9;
+        }
+        0%, 29% {
+            stroke-dashoffset: 100;
+        }
+    }
+  </style>
+  <g id="Layer_2_1_">
+    <g id="Layer_1-2"></g>
+  </g>
+  <path class="path1" d="M 9.234 31.708 L 22.753 4.592 L 28.046 15.6" stroke-width="4" stroke="#ffffff" style="stroke-linecap: round; stroke-linejoin: round;"></path>
+  <path class="path2" d="M 30.738 20.968 L 35.766 31.289" stroke="#ffffff" stroke-width="4" style="stroke-linecap: round;"></path>
+</svg>
