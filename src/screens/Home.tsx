@@ -11,7 +11,7 @@ const Home = () => {
                 <p style={StyleSheet.compose([styles.text, styles.textStoke])}>HEY, I AM</p>
                 <h3 style={styles.text}>Anass MASSNAOUI</h3>
                 <p style={StyleSheet.compose([styles.text, styles.textStoke])}>YOU CAN CALL ME</p>
-                <p style={styles.text}>Akai</p>
+                <p style={styles.text}>Akai 🥷</p>
                 <p style={StyleSheet.compose([styles.text, styles.title])}>I am a software engineer, full-stack developer</p>
                 <p style={StyleSheet.compose([styles.text, styles.title])}>& app developer</p>
             </div>
