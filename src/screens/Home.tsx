@@ -55,6 +55,7 @@ const styles = StyleSheet.create({
         fontWeight: '800',
         fontSize: '2.5rem',
         color: '#ababab',
+        textAlign: 'center',
     },
     textStoke: {
         WebkitTextStroke: '2px #ababab',
